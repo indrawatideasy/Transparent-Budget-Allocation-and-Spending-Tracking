@@ -3,14 +3,14 @@ This system is a blockchain-based platform designed to enhance transparency in g
 
 ## Project Overview
 The system will allow governments or organizations to:
-o Allocate budgets to departments or projects.
-o Track spending in real-time.
+o Allocate budgets to departments or projects.\
+o Track spending in real-time.\
 o Provide transparency to stakeholders by recording all transactions on the Ethereum blockchain.
 
 ## Tech Stack
-o Blockchain: Ethereum (Smart Contracts).
-o Backend: Python (Flask/Django for API).
-o Frontend: HTML/CSS/JavaScript (optional, for a user interface).
-o Web3 Library: web3.py to interact with Ethereum.
-o Testing: Ganache (local Ethereum blockchain for testing).
+o Blockchain: Ethereum (Smart Contracts).\
+o Backend: Python (Flask/Django for API).\
+o Frontend: HTML/CSS/JavaScript (optional, for a user interface).\
+o Web3 Library: web3.py to interact with Ethereum.\
+o Testing: Ganache (local Ethereum blockchain for testing).\
 o Deployment: Infura (to connect to Ethereum mainnet or testnets).
